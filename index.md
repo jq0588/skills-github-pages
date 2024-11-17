@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Jia Qi: Welcome to my GitHub
 ---
 
